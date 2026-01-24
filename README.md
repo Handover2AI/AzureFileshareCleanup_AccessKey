@@ -1,4 +1,4 @@
-# Azure File Share Cleanup Runbook
+# Azure File Share Cleanup using Access Keys
 ![PSScriptAnalyzer](https://github.com/Handover2AI/AzureFileshareCleanup_AccessKey/actions/workflows/ci-workflow-psscriptanalyzer.yml/badge.svg)
 
 ## 📖 Overview
